@@ -1,5 +1,10 @@
 # Backend
 
+## Download project
+```
+git clone -b main https://github.com/josefonseca10/backendTestMovies.git
+```
+
 ## Project setup
 ```
 npm install
